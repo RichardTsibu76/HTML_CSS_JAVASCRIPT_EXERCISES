@@ -1,0 +1,28 @@
+body{
+font-size: 2rem;
+font-style: normal;
+
+}
+.block{
+  width:20vw;
+  height: 20vw;
+  background-color: black;
+  color: white;
+  padding: 1rem;
+}
+.left{
+
+  float: left;
+  margin-right: 1rem;
+}
+.right{
+
+  float: right;
+  margin-right: 1rem;
+}
+section{
+border : 1px solid bisque;
+background-color: blue;
+overflow:auto;
+display: flow-root;
+}
